@@ -25,5 +25,61 @@
 
 .td-padd{
     padding: 50px;
-    margin: 0;
+    margin: 0 auto;
+    width: 10%;
 }
+
+.sub-title{
+    padding-left: 35%;
+    margin: 0 auto;
+    padding-bottom: 5px;
+}
+
+.immage-intro{
+    padding-left: 35%;
+    margin:0 auto;
+}
+
+.argomenti{
+    padding-left: 10%;
+    margin:0 auto;
+}
+
+.img-1{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 250px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color: antiquewhite;
+}
+
+.img-2{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 250px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:40px ;
+    color: antiquewhite;
+}
+
+.interest{
+    padding-top: 10px;
+    color: grey;
+}
+
+.text-yellow{
+    background-color: yellow;
+
+}
+
+.lorem-table{
+    margin: 0 auto;
+    padding-left: 25px;
+}
+
+.argoment{
+    padding-left: 25px;
+    margin: 0 auto;
+}
+
