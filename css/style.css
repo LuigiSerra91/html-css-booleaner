@@ -1,9 +1,4 @@
 
-
-*{
-    box-sizing: border-box;
-    margin: 0;
-}
 .initial-logo {
     background-image: url(../img/pattern.png);
     background-color: lightblue;
