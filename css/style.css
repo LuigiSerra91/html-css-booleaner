@@ -1,13 +1,29 @@
-.conteiner{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
 
 
 .img-logo{
     background-image: url(../img/pattern.png);
     background-color: lightblue;
+    height: 230px;
+    padding-right: 70%;
+    margin: 0 auto;
     
+    
+}
+
+.lorem-1{
+    background-color: rgb(88, 88, 212);
+}
+
+.lorem-2{
+    background-color: lightblue;
+}
+
+
+.first-title{
+    text-align: center;
+}
+
+.td-padd{
+    padding: 50px;
+    margin: 0;
 }
