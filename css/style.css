@@ -1,0 +1,28 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.initial-logo {
+    background-image: url(../img/pattern.png);
+    background-color: lightblue;
+    
+
+}
+
+.first-title{
+    text-align: center;
+    font-size: 55px;
+    
+}
+
+.sub-title{
+    position: relative;
+    left: 23%;
+}
+
+
+
+
+
