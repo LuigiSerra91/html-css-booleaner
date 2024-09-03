@@ -1,7 +1,9 @@
-*{
-    margin 0;
-}
 
+
+.body{
+    height: 85%;
+    margin: 0 auto;
+}
 
 .img-logo{
     background-image: url(../img/pattern.png);
