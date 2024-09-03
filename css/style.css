@@ -85,3 +85,9 @@
 .paragraf-1{
     background-color: yellow;
 }
+
+.td-table{
+    box-sizing: border-box;
+    margin: auto;
+    padding-left: 5px;
+}
