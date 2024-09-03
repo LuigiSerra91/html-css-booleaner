@@ -64,6 +64,7 @@
 .interest{
     padding-top: 10px;
     color: grey;
+
 }
 
 .text-yellow{
@@ -100,8 +101,7 @@
     color: antiquewhite;
 }
 
-.td-title3{
-    background-color: blue;
-    color: antiquewhite;
-    padding-left: 50px;
+
+.footer-img{
+    padding-left: 25px;
 }
