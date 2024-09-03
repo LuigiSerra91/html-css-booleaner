@@ -1,16 +1,16 @@
 
 
-.body{
-    height: 85%;
-    margin: 0 auto;
+.conteiner{
+    width: 85%;
+    margin: auto;
 }
 
 .img-logo{
     background-image: url(../img/pattern.png);
     background-color: lightblue;
     
-    padding-right: 60%;
-    padding-top: 1,5rem;
+    
+    
     
     
 }
@@ -25,7 +25,8 @@
 .first-title{
     
     padding-left: 3%;
-    font-size: 3rem;
+    font-size: 60px;
+    padding-bottom: 10px;
     
 }
 
