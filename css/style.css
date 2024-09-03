@@ -13,27 +13,31 @@
     
 }
 
+
+
 .td-collapse{
     border-collapse: collapse;
 }
 
 
 .first-title{
-    text-align: center;
+    
+    padding-left: 3%;
+    font-size: 3rem;
     
 }
 
 
 
 .sub-title{
-    padding-left: 27%;
+    padding-left: 3%;
     margin: 0 auto;
     
 
 }
 
 .immage-intro{
-    padding-left: 35%;
+    padding-left:3%;
     margin:0 auto;
 }
 
