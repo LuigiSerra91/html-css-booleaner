@@ -1,5 +1,5 @@
-.body{
-    margin: 0;
+*{
+    margin 0;
 }
 
 
@@ -13,24 +13,13 @@
     
 }
 
-.lorem-1{
-    background-color: rgb(88, 88, 212);
-}
-
-.lorem-2{
-    background-color: lightblue;
-}
 
 
 .first-title{
     text-align: center;
 }
 
-.td-padd{
-    padding: 50px;
-    margin: 0 auto;
-    width: 10%;
-}
+
 
 .sub-title{
     padding-left: 35%;
@@ -78,9 +67,9 @@
 }
 
 .lorem-table{
-    margin: 0 auto;
-    padding-left: 25px;
+    padding-left: 25px; 
 }
+
 
 .argoment{
     padding-left: 25px;
@@ -92,13 +81,19 @@
 
 }
 
+.td-whidt{
+    width: 50%;
+}
+
 .paragraf-1{
     background-color: yellow;
 }
 
 .td-table{
-    
+    height: 65px;
     background-color: lightblue;
+    
+
 }
 
 .td-title{
