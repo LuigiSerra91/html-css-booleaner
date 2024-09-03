@@ -13,18 +13,23 @@
     
 }
 
+.td-collapse{
+    border-collapse: collapse;
+}
 
 
 .first-title{
     text-align: center;
+    
 }
 
 
 
 .sub-title{
-    padding-left: 35%;
+    padding-left: 27%;
     margin: 0 auto;
-    padding-bottom: 5px;
+    
+
 }
 
 .immage-intro{
@@ -68,6 +73,7 @@
 
 .lorem-table{
     padding-left: 25px; 
+    border-collapse: collapse;
 }
 
 
@@ -82,7 +88,7 @@
 }
 
 .td-whidt{
-    width: 50%;
+    width: 40%;
 }
 
 .paragraf-1{
