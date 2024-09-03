@@ -1,9 +1,14 @@
+.body{
+    margin: 0;
+}
+
+
 .img-logo{
     background-image: url(../img/pattern.png);
     background-color: lightblue;
-    height: 230px;
-    padding-right: 70%;
-    margin: 0 auto;
+    
+    padding-right: 60%;
+    padding-top: 1,5rem;
     
     
 }
