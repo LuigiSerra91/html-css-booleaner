@@ -81,13 +81,27 @@
     margin: 0 auto;
 }
 
+.paragrafh{
+    padding-left: 25px;
+
+}
 
 .paragraf-1{
     background-color: yellow;
 }
 
 .td-table{
-    box-sizing: border-box;
-    margin: auto;
-    padding-left: 5px;
+    
+    background-color: lightblue;
+}
+
+.td-title{
+    background-color: blue;
+    color: antiquewhite;
+}
+
+.td-title3{
+    background-color: blue;
+    color: antiquewhite;
+    padding-left: 50px;
 }
